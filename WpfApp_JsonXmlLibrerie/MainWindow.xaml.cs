@@ -6,7 +6,6 @@ using System.Xml.Serialization;
 using Newtonsoft.Json;
 using System.Security.RightsManagement;
 using Newtonsoft.Json.Bson;
-using static WpfApp_JsonXmlLibrerie.MainWindow;
 
 namespace WpfApp_JsonXmlLibrerie
 {
